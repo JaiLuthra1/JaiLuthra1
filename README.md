@@ -1,6 +1,6 @@
 ### Hi there, I'm [Jai Luthra][website] 👋
 
-- 🎓 Junior at IIT Mandi
+- 🎓 Senior at IIT Mandi
 - 🔭 Ask me about Competitive Programming, Open Source or Cricket
 - 🌱 Google Summer of Code 2020 with [OpenPrinting](https://github.com/OpenPrinting)
 - 📫 How to reach me: [luthrajaiji@gmail.com][gmail]
